@@ -1,4 +1,0 @@
-
-`mod_ssl`은 ==아파치 HTTP 서버(Apache HTTP Server)가 SSL v3 및 TLS v1.x 프로토콜을 지원하여 안전한 HTTPS 암호화 통신을 가능하게 해주는 필수 모듈==입니다.
-
-내부적으로 OpenSSL 라이브러리를 활용해 암호화 엔진을 구동합니다. 
